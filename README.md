@@ -10,7 +10,7 @@ This is a Maven project.  Download the project and compile as follows.  The JAR 
 > java -jar Misiurewicz-0.0.1-SNAPSHOT-jar-with-dependencies.jar
 ```
 
-If you have any problem getting the Complex library, download Complex package from GitHub and compile/install the JAR file. 
+If you have any problem getting the Complex library depending on your internet connection, create your local repository.  Download Complex package from GitHub and compile/install the JAR file.  The above procedure should compile with the local copy.
 ```
 > git clone https://github.com/easai/Complex
 > cd Complex
